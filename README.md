@@ -1,1 +1,1 @@
-## Example project
+# Example project for CICD
